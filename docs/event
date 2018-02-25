@@ -12,7 +12,7 @@ An event's metadata should be defined as a JSON document.
                     Should be defined as a UTC timestamp
                     (if not applicable, use `null').
         * host:     Name of the company.                                    [~]
-        * levels:   A list of `level' objects. 				    [%]
+        * levels:   A list of `level' objects.                              [%]
         * social:   Social media link (of the host).                        [~]
         * intro:    A short description of the event.                       [~]
         * faq:      FAQ link (common instructions).                         [~]
