@@ -4,4 +4,4 @@ Flask_Login==0.3.2
 Flask_SeaSurf==0.2.2
 requests
 tabulate==0.7.5
-gunicorn==19.4.5
+gunicorn ~> 19.5.0
