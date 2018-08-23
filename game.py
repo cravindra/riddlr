@@ -65,7 +65,7 @@ def load_config():
         exit(1)
 
 
-# Variable for development environemnt (set to `False' in production).
+# Variable for development environment (set to `False' in production).
 ENV_DEV = True
 
 # Application configuration variables.
