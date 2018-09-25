@@ -1,7 +1,7 @@
 {
-    "event": "foo",
+    "event": "xaviers20181003",
     "trackr": 20,
-    "dbpath": "db/event-foo.db",
+    "dbpath": "db/event-xaviers20181003.db",
     "sudo": "random-string",
     "secret": "another-random-string"
 }

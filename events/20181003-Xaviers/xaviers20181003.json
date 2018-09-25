@@ -1,0 +1,423 @@
+{
+  "id": "xaviers20181003",
+  "name": "Treasure Trove",
+  "start": 1538568000,
+  "intro": "A treasure hunt is one of many different types of games with one or more players who try to find hidden objects or places by following a series of clues. Treasure hunt games may be an indoor or outdoor activity. Outdoors they can be played in a garden or the treasure could be located anywhere around the world.",
+  "social": "http://xime.org/",
+  "host": "Xavier Institute of Management and Entrepreneurship",
+  "faq": "http://xime.org/",
+  "discuss": "http://xime.org/",
+  "finish": "",
+  "levels": [
+    {
+      "index": 1,
+      "title": "Dated",
+      "text": "If 8th May, 2022 is a Sunday, what will 9th May, 2025 be?",
+      "media": null,
+      "answer": {
+        "choices": [
+          "FRIDAY"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "dated"
+    },
+    {
+      "index": 2,
+      "title": "Sequence 1",
+      "text": "What next? 7, 17, 1117, 3117, ?",
+      "media": null,
+      "answer": {
+        "choices": [
+          "132117"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "sequence1"
+    },
+    {
+      "index": 3,
+      "title": "In 'A' bind",
+      "text": "If you write the numbers from 1 to 999 in words, how many A-s will you use?",
+      "media": null,
+      "answer": {
+        "choices": [
+          "0",
+          "zero"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "in-a-bind"
+    },
+    {
+      "index": 4,
+      "title": "Leaping Squares",
+      "text": "Find the least number that must be added to the number of leap years between 2091 and 2121 to get a perfect square number?",
+      "media": null,
+      "answer": {
+        "choices": [
+          "2",
+          "two"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "leaping-squares"
+    },
+    {
+      "index": 5,
+      "title": "The Great Equaliser 1",
+      "text": "If BEG=YVT, ACE=?",
+      "media": null,
+      "answer": {
+        "choices": [
+          "ZXV"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "equaliser1"
+    },
+    {
+      "index": 6,
+      "title": "Free Wheeling",
+      "text": "What should replace the question mark?",
+      "media": {
+        "type": "img",
+        "url": "https://image.ibb.co/jA7Qgp/6.jpg"
+      },
+      "answer": {
+        "choices": [
+          "124"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "free-wheeling"
+    },
+    {
+      "index": 7,
+      "title": "Word Sleuth",
+      "text": "Locate the given words in the grid, running in one of the eight possible directions horizontally, vertically or diagonally. There will be exactly one unused word. Which word is it? XAVIERS, ECONOMICS, SOCIETY, CONFLUENCE, TREASURE, TROVE, PRICE, DEMAND, MONEY, SUPPLY, RICH, POOR",
+      "media": {
+        "type": "img",
+        "url": "https://image.ibb.co/cWKGNU/grid.png"
+      },
+      "answer": {
+        "choices": [
+          "TROVE"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "word-sleuth"
+    },
+    {
+      "index": 8,
+      "title": "Missing Number",
+      "text": "Which number should replace the question mark?",
+      "media": {
+        "type": "img",
+        "url": "https://image.ibb.co/iSMrp9/8.png"
+      },
+      "answer": {
+        "choices": [
+          "9"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "missingno"
+    },
+    {
+      "index": 9,
+      "title": "Sequence 2",
+      "text": "What next?  1, 8, 81, 256, ?",
+      "media": null,
+      "answer": {
+        "choices": [
+          "15625"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "sequence2"
+    },
+    {
+      "index": 10,
+      "title": "Ant Hike",
+      "text": "An ant has to climb up 200 m. It moves up at a speed of 2 m/min. But after every 5 min it gets tired and rests for 2 min. While resting the ant comes down at the speed of 1 m/min. Calculate the time required (in min) by the ant to reach the height of 200 m.",
+      "media": null,
+      "answer": {
+        "choices": [
+          "172"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "ant-hike"
+    },
+    {
+      "index": 11,
+      "title": "Sequence 3",
+      "text": "What next? 1,1,2,3,5,?",
+      "media": null,
+      "answer": {
+        "choices": [
+          "8"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "sequence3"
+    },
+    {
+      "index": 12,
+      "title": "Trinception",
+      "text": "How many triangles are there in the figure?",
+      "media": {
+        "type": "img",
+        "url": "https://image.ibb.co/kmwz99/12.jpg"
+      },
+      "answer": {
+        "choices": [
+          "16"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "trinception"
+    },
+    {
+      "index": 13,
+      "title": "Sequence 4",
+      "text": "What next? B, D, H, AF, ?",
+      "media": null,
+      "answer": {
+        "choices": [
+          "CB"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "sequence4"
+    },
+    {
+      "index": 14,
+      "title": "Straw Math",
+      "text": "Move one of the lines to make it valid. All lines are in different colour. Write the colour of the line to be moved in the answer: Black, blue, red, green, orange, yellow, purple, gray, pink, dashed.",
+      "media": {
+        "type": "img",
+        "url": "https://image.ibb.co/jwcWp9/14.jpg"
+      },
+      "answer": {
+        "choices": [
+          "GREEN"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "straw-math"
+    },
+    {
+      "index": 15,
+      "title": "Painter's Bill",
+      "text": "There is a wall of dimension 88x154. The wall has to be painted. A painter charges Rs. 5000 for painting a square shaped figure(however large). At what minimum cost can the wall be painted?",
+      "media": null,
+      "answer": {
+        "choices": [
+          "25000"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "painters-bill"
+    },
+    {
+      "index": 16,
+      "title": "Image Sleuth",
+      "text": "Decipher the following:",
+      "media": {
+        "type": "img",
+        "url": "https://image.ibb.co/dJBkGp/16.png"
+      },
+      "answer": {
+        "choices": [
+          "ECONOMY UNDER RECESSION"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "image-sleuth"
+    },
+    {
+      "index": 17,
+      "title": "Tally",
+      "text": "Write a digit from 1-9 in each cell(without repetition) so that the numbers outside represent the sum of numbers in corresponding row/column",
+      "media": {
+        "type": "img",
+        "url": "https://preview.ibb.co/gTYce9/17.png"
+      },
+      "answer": {
+        "choices": [
+          "521743986"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "tally"
+    },
+    {
+      "index": 18,
+      "title": "Unscramble Scramble",
+      "text": "Unscramble each word to form a meaningful sentence: UOY NNAOTC AKET UTO RTEUSAER RMOF ETH OSEUH FO NOMCOEMISTS OS SLEIAY",
+      "media":null,
+      "answer": {
+        "choices": [
+          "YOU CANNOT TAKE OUT TREASURE FROM THE HOUSE OF ECONOMISTS SO EASILY"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "unscramble"
+    },
+    {
+      "index": 19,
+      "title": "The Great Equaliser 2",
+      "text": "If YTRSDITR=TREASURE, FSBOF TOVSTFP=?",
+      "media": null,
+      "answer": {
+        "choices": [
+          "DAVID RICARDO"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "equaliser2"
+    },
+    {
+      "index": 20,
+      "title": "Timing Angles",
+      "text": "What is the angle(in degrees) between hour-hand and minute-hand at 6:30 am?",
+      "media": null,
+      "answer": {
+        "choices": [
+          "15"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "timing-angles"
+    },
+    {
+      "index": 21,
+      "title": "Symbol Math",
+      "text": "What is the value of △ if △, ◯ and ▢ represent three distinct natural numbers and the following hold true: △² + ◯² =  ▢, | △ - ◯ | = 2 and (△/2) + (◯/3) = △",
+      "media": {
+        "type": "img",
+        "url": "https://preview.ibb.co/keVXe9/21.png"
+      },
+      "answer": {
+        "choices": [
+          "4"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "symbol-math"
+    },
+    {
+      "index": 22,
+      "title": "Spiritual Offering",
+      "text": "There are 7 temples surrounding a pond. The pond has a special feature that if you immerse any number of flowers in it, they get doubled. You want to offer equal number of flowers at each temple. Before visiting each temple you go to the pond and double your flowers(even before visiting the first temple). How many minimum number of flowers should you carry so that this is done?(No flower should be left after visiting 7th temple)",
+      "media": null,
+      "answer": {
+        "choices": [
+          "127"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "spiritual-offering"
+    },
+    {
+      "index": 23,
+      "title": "Sudoku",
+      "text": "Place a number from 1-9 in each empty cell so that each digit appears exactly once in each row, column and 3x3 outlined box. Answer format: Write the digits in the row marked with K (from left to right) followed by a comma and the digits in column marked L (from top to bottom). For eg. 123456789,123456789",
+      "media": {
+        "type": "img",
+        "url": "https://preview.ibb.co/gpXTK9/23.png"
+      },
+      "answer": {
+        "choices": [
+          "516439782,542187693"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "sudoku"
+    },
+    {
+      "index": 24,
+      "title": "Love Thy Neighbour",
+      "text": "6 friends - U, V, W, X , Y & Z stay one in each of the rooms(A, B, C, D, E & F) in the figure. Two friends are neighbors if their rooms touch each other. Who stays in room E if the following statements are true: V and Z have equal number of neighbors. W has 2 less neighbors than U. U and V are not neighbors to X. V’s room is smaller than that of Z.",
+      "media": {
+        "type": "img",
+        "url": "https://preview.ibb.co/miHaXU/24.png"
+      },
+      "answer": {
+        "choices": [
+          "U"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "neighbours"
+    },
+    {
+      "index": 25,
+      "title": "Censored",
+      "text": "Form a 4-digit number (using all different digits) using the following clues. A shaded dot means a correct digit in correct position and an unshaded dot means a correct digit in incorrect position.",
+      "media": {
+        "type": "img",
+        "url": "https://image.ibb.co/bNzse9/25.png"
+      },
+      "answer": {
+        "choices": [
+          "1729"
+        ],
+        "case": false,
+        "hints": []
+      },
+      "source": "",
+      "path": "censored"
+    }
+  ]
+}
