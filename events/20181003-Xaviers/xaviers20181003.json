@@ -1,10 +1,10 @@
 {
   "id": "xaviers20181003",
   "name": "Treasure Trove",
-  "start": 1538568000,
+  "start": 150,
   "intro": "A treasure hunt is one of many different types of games with one or more players who try to find hidden objects or places by following a series of clues. Treasure hunt games may be an indoor or outdoor activity. Outdoors they can be played in a garden or the treasure could be located anywhere around the world.",
   "social": "http://xime.org/",
-  "host": "Xavier Institute of Management and Entrepreneurship",
+  "host": "Xavier's Economics Society",
   "faq": "http://xime.org/",
   "discuss": "http://xime.org/",
   "finish": "",
@@ -272,7 +272,7 @@
     {
       "index": 17,
       "title": "Tally",
-      "text": "Write a digit from 1-9 in each cell(without repetition) so that the numbers outside represent the sum of numbers in corresponding row/column",
+      "text": "Write a digit from 1-9 in each cell(without repetition) so that the numbers outside represent the sum of numbers in corresponding row/column. Answer format: Enter the digits row-wise from left to write without any space. For eg. 123456789",
       "media": {
         "type": "img",
         "url": "https://preview.ibb.co/gTYce9/17.png"
