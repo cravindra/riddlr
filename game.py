@@ -66,7 +66,7 @@ def load_config():
 
 
 # Variable for development environment (set to `False' in production).
-ENV_DEV = True
+ENV_DEV = False
 
 # Application configuration variables.
 APP_CONFIG = load_config()
